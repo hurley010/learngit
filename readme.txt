@@ -21,3 +21,7 @@ Git has eighth.
 Git has nineth.
 
 Git tracks changes.
+
+Git remote add origin git@github.com:hurley010/learngit.git.
+
+Git push -u origin master.
