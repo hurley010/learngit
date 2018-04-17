@@ -27,3 +27,5 @@ Git remote add origin git@github.com:hurley010/learngit.git.
 Git push -u origin master.
 
 Creating a new branch is quick and simple.
+
+Git push -u origin master again.
